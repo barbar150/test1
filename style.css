@@ -1,0 +1,59 @@
+body {
+}
+
+.div1 {
+    height: 450px;
+    position: relative;
+    padding: 10px;
+}
+
+.img1 {
+    width: 70%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.div2 {
+    height: 100px;
+    position: relative;
+    text-align: center;
+    bottom: 10%;
+    margin-bottom: 0%;
+}
+
+.img2 {
+    width: 10%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+
+.div3 {
+    position: relative;
+    text-align: center;
+    bottom: 10%;
+}
+
+.a-email {
+    width: 20%;
+    color: black;
+    font-weight: 700;
+    font-size:x-large;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+    cursor:auto;
+}
+
+p {
+    color: black;
+    font-weight: 700;
+    text-align: center;
+    font-size: large;
+}
